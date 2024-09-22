@@ -1,11 +1,27 @@
 * {
-    outline: 2px solid red;
+    /*outline: 2px solid red;*/
+    text-align: center;
 }
 
+.padding{
+    padding: 50px;
+}
 .footerBack {
     background-color: #1F2937;
+    padding-bottom: 20px;
 }
-
+.flexContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.flex {
+    flex: auto;
+}
+.dogImage{
+    width: 200;
+    height: 200;
+}
 .heroText {
     font-size: 48px;
     color: #F9FaF8;
@@ -20,7 +36,7 @@
     color: #F9FAF8;
 }
 .buttonBackgroundColor{
-    color: #3882F6;
+    background-color: #3882F6;
 }
 .informationHeader{
     font-size: 36px;
@@ -28,10 +44,22 @@
     font-weight: 900;
 }
 .quoteBack{
-    color: #E5E7EB;
+    background-color: #E5E7EB;
 }
 .quoteText{
     font-size: 36px;
     color: #1F2937;
     font-family: light italic;
+}
+.blueBox{
+    margin-top: 50px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 50px;
+}
+.button{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
