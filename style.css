@@ -1,0 +1,37 @@
+* {
+    outline: 2px solid red;
+}
+
+.footerBack {
+    background-color: #1F2937;
+}
+
+.heroText {
+    font-size: 48px;
+    color: #F9FaF8;
+    font-weight: 900;
+}
+.secondary {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+.logoText{
+    font-size: 24px;
+    color: #F9FAF8;
+}
+.buttonBackgroundColor{
+    color: #3882F6;
+}
+.informationHeader{
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+}
+.quoteBack{
+    color: #E5E7EB;
+}
+.quoteText{
+    font-size: 36px;
+    color: #1F2937;
+    font-family: light italic;
+}
