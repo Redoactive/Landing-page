@@ -9,6 +9,7 @@
 .footerBack {
     background-color: #1F2937;
     padding-bottom: 20px;
+    border-width: 0px;
 }
 .flexContainer{
     display: flex;
@@ -19,8 +20,8 @@
     flex: auto;
 }
 .dogImage{
-    width: 200;
-    height: 200;
+    width: 200px;
+    height: 200px;
 }
 .heroText {
     font-size: 48px;
@@ -62,4 +63,6 @@
     padding-right: 50px;
     padding-top: 10px;
     padding-bottom: 10px;
+    color: white;
+    border-color: white;
 }
